@@ -1,0 +1,19 @@
+{
+  "name": "mapa-cultural-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start" 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+ 
+  "dependencies": {
+    "react": "^somente.versao.aqui",
+    "react-dom": "^somente.versao.aqui",
+    "react-scripts": "^somente.versao.aqui" 
+  }
+}
